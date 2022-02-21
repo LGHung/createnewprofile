@@ -15,8 +15,8 @@ import {
   var cccd_box = document.getElementById("cccd_box")
 
   var cash_box = document.getElementById("cash")
-  var cashvnd = 0
-  var cashdollar = 0
+  var cashvnd = 100000
+  var cashdollar = 10
   var insBtn = document.getElementById("Insbtn");
 
   function insertData() {
